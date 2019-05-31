@@ -1,1 +1,3 @@
-# server-21.15.22
+# Mangos Zero (v21.15.22)
+
+Inkl. AI Bot
